@@ -1,6 +1,6 @@
 
 import Hero from './components/Hero'
-import './App.css'
+import Features from './components/Features'
 
 function App() {
   
@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <Hero/>
+      <Features/>
     </>
   )
 }
